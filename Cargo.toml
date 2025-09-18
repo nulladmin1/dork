@@ -2,6 +2,9 @@
 name = "dork"
 version = "0.1.0"
 edition = "2021"
+description = "A simple local Downloads organizer"
+readme = "README.md"
+repository = "https://github.com/nulladmin1/dork"
 
 [dependencies]
 anyhow = "1.0.99"
